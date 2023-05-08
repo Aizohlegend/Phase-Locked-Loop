@@ -1,7 +1,5 @@
 # Phase-Locked-Loop
-Design PLL in 130nm 
-![127750108-df95ef4c-b283-4c7a-b14e-1d5fd7333671](https://user-images.githubusercontent.com/65411629/127780909-65694659-8320-45c2-80d2-4019e8a330df.png)
-It is the  Workshop to Become a fullest in PLL using skywater-pdk using Google SkyWater 130nm Technology.The spice simulations were done using the Ngspice Open source EDA.
+Design PLL in 130nm
 The Layout design using Magic and parasitic extraction.
 The Workshop Carried Out in the below manner:
 <br>
@@ -162,7 +160,4 @@ Duty cycle = 50%
   ![fpd](https://user-images.githubusercontent.com/65411629/127898288-501d02ef-2f75-4790-8eec-f19004168296.PNG)
 
   <h3>Acknowlegement <a name="ackno"></a></h3>
-  
-1. I would like to thank Mr. Kunal Ghosh, co-founder VSD, for providing me with this wonderful 2-day workshop.
-
-2. I would like to thank Ms. Lakshmi S, for fullest guiding on design of PLL.
+ 
